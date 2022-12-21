@@ -43,5 +43,4 @@ public class Student {
     private String AnnualFeePayment_OneStatus;
     private String AnnualFeePayment_TwoStatus;
 
-
 }
